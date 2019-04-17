@@ -18,7 +18,7 @@ def home(request):
         "title": "eLearning",
     }
 
-    return render(request, "home.html", context)
+    return render(request, "pruebas.html", context)
 
 
 def about(request):
