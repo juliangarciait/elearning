@@ -7,6 +7,7 @@ from django.core.urlresolvers import reverse
 from django.db.models.signals import pre_save
 from django.utils.text import slugify
 from django.dispatch import receiver
+from tinymce.models import HTMLField
 
 
 # Create your models here.

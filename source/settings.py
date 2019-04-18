@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     # Third party-apps
     'crispy_forms',
     'registration',
+    'tinymce',
     # Django apps
     'django.contrib.admin',
     'django.contrib.auth',
